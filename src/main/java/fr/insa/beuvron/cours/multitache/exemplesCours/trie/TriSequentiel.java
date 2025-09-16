@@ -16,7 +16,7 @@
  You should have received a copy of the GNU General Public License
  along with CoursBeuvron.  If not, see <http://www.gnu.org/licenses/>.
  */
-package fr.insa.beuvron.cours.multitache.trie;
+package fr.insa.beuvron.cours.multitache.exemplesCours.trie;
 
 /**
  * Un trie "Divide and Conquer" avec l'utilisation d'un buffer unique pour les
